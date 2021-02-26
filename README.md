@@ -8,7 +8,7 @@
 
 - [Mulesoft Basics](https://lnkd.in/ejGyDpv)
 
-
+- [RTF unallocated CPU capacity](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/unallocated-cpu-capacity-runtime-fabric/?utm_campaign=5eb19216dd1e490001cfebf4&utm_content=6036892a829b76000122bceb&utm_medium=smarpshare&utm_source=linkedin)
 
 ## Integrations
 
