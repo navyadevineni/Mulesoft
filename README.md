@@ -13,5 +13,6 @@
 ## Integrations
 
 - [Kafka with mule](https://medium.com/swlh/integrating-apache-kafka-with-mule-4-anypoint-studio-7-8-on-windows-os-f237fca266ee)
+- [LinkedIn](https://www.sfdcpanther.com/how-to-integrate-your-linkedin-using-mulesoft/)
 
 
